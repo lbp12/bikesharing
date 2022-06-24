@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#Ignored files
+Untitled.ipynb
+201908-citibike-tripdata.csv
+tripdata.csv   
+
 # Distribution / packaging
 .Python
 build/
