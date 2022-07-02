@@ -1,6 +1,6 @@
 # Bike Sharing
 ## Overview
-An analysis of bike sharing data from New York City. Looking at key factors of how successul the bike sharing program is in New York City to prepare opening a similar program in Des Moines Iowa. See the full story on Tableau Public. <br>
+An analysis of bike sharing data from New York City. Looking at key factors of how successful the bike sharing program is in New York City to prepare opening a similar program in Des Moines Iowa. See the full story on Tableau Public. <br>
 [Link to Dashboard](https://public.tableau.com/views/Bike_Sharing_Story_16561049011170/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Results
 Below are different visualizations for the analysis of bike sharing data in New York City.<br>
